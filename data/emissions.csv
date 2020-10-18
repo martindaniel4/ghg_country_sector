@@ -1,0 +1,745 @@
+﻿Country,Category,emissions
+Australia,1.  Energy,435570.94
+Australia,1.AA  Fuel Combustion - Sectoral approach,381121.1
+Australia,1.A.1  Energy Industries,213835.41
+Australia,1.A.1.a  Public Electricity and Heat Production,183170.46
+Australia,1.A.1.b  Petroleum Refining,3078.61
+Australia,1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries,27586.35
+Australia,1.A.1.c.i  Manufacture of Solid Fuels,719.6
+Australia,1.A.1.c.ii  Oil and Gas Extraction,17934.86
+Australia,1.A.1.c.iii  Other Energy Industries,8931.89
+Australia,1.A.2  Manufacturing Industries and Construction,40719.95
+Australia,1.A.2.a  Iron and Steel,1554.95
+Australia,1.A.2.b  Non-Ferrous Metals,12304.22
+Australia,1.A.2.c  Chemicals,6871.83
+Australia,1.A.2.d  Pulp Paper and Print,1044.8
+Australia,1.A.2.e  Food Processing Beverages and Tobacco,2705.51
+Australia,1.A.2.f  Non-metallic Minerals,4950.82
+Australia,1.A.2.g  Other,11287.82
+Australia,1.A.2.g.i  Manufacturing of Machinery,117.25
+Australia,1.A.2.g.iii  Mining (Excluding Fuels) and Quarrying,8931.83
+Australia,1.A.2.g.v  Construction,1704.61
+Australia,1.A.2.g.vi  Textile and Leather,387.24
+Australia,1.A.2.g.viii  Other,146.89
+Australia,1.A.3  Transport,100795.81
+Australia,1.A.3.a  Domestic Aviation,9019.78
+Australia,1.A.3.b  Road Transportation,85189.01
+Australia,1.A.3.b.i  Cars,46896.1
+Australia,1.A.3.b.ii  Light Duty Trucks,16723.62
+Australia,1.A.3.b.iii  Heavy Duty Trucks and Buses,21259.38
+Australia,1.A.3.b.iv  Motorcycles,309.92
+Australia,1.A.3.c  Railways,4025.62
+Australia,1.A.3.d  Domestic Navigation,1723.45
+Australia,1.A.3.e  Other Transportation,837.94
+Australia,1.A.3.e.i  Pipeline Transport,794.19
+Australia,1.A.3.e.ii  Other,43.75
+Australia,1.A.4  Other Sectors,24942.03
+Australia,1.A.4.a  Commercial/Institutional,6507.76
+Australia,1.A.4.b  Residential,10675.51
+Australia,1.A.4.c  Agriculture/Forestry/Fishing,7758.76
+Australia,1.A.5  Other (Not specified elsewhere),827.89
+Australia,1.B  Fugitive Emissions from Fuels,54449.83
+Australia,1.B.1  Solid Fuels,26673.47
+Australia,1.B.1.a  Coal Mining and Handling,25770.62
+Australia,1.B.1.a.ii  Surface Mines,6595.51
+Australia,1.B.1.c  Other,902.84
+Australia,1.B.2  Oil and Natural Gas and Other Emissions from Energy Production,27776.37
+Australia,1.B.2.a  Oil,197.44
+Australia,1.B.2.b  Natural Gas,10705.91
+Australia,1.B.2.c  Venting and Flaring,16873.02
+Australia,2.  Industrial Processes and Product Use,34197.45
+Australia,2.A  Mineral Industry,5522.79
+Australia,2.A.4  Other Process Uses of Carbonates,1555.31
+Australia,2.B  Chemical Industry,5098.38
+Australia,2.C  Metal Industry,10975.52
+Australia,2.C.3  Aluminium Production,2487.98
+Australia,2.C.7  Other,8487.54
+Australia,2.D  Non-energy Products from Fuels and Solvent Use,171.25
+Australia,2.F  Product Uses as Substitutes for ODS,11982.08
+Australia,2.G  Other Product Manufacture and Use,228.53
+Australia,2.H  Other,218.9
+Australia,3.  Agriculture,75587.64
+Australia,3.A  Enteric Fermentation,51668.3
+Australia,3.B  Manure Management,7361.31
+Australia,3.C  Rice Cultivation,254.03
+Australia,3.D  Agricultural Soils,13303.83
+Australia,3.F  Field Burning of Agricultural Residues,325.46
+Australia,3.G  Liming,1318.39
+Australia,4.  Land Use Land-Use Change and Forestry,-20600.83
+Australia,4.A  Forest Land,-57210.61
+Australia,4.B  Cropland,-1516.79
+Australia,4.C  Grassland,36916.71
+Australia,4.D  Wetlands,408.17
+Australia,4.E  Settlements,971.86
+Australia,4.G  Harvested Wood Products,-5078.14
+Australia,5.  Waste,12691.19
+Australia,5.A  Solid Waste Disposal,9045.09
+Australia,5.B  Biological Treatment of Solid Waste,281.4
+Australia,5.C  Incineration and Open Burning of Waste,30.7
+Australia,5.D  Wastewater Treatment and Discharge,3334
+Canada,1.  Energy,595995.22
+Canada,1.AA  Fuel Combustion - Sectoral approach,540530.07
+Canada,1.A.1  Energy Industries,192321.35
+Canada,1.A.1.a  Public Electricity and Heat Production,69891.78
+Canada,1.A.1.a.i  Electricity Generation,61476.36
+Canada,1.A.1.a.ii  Combined Heat and Power Generation,8415.42
+Canada,1.A.1.b  Petroleum Refining,15950.38
+Canada,1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries,106479.19
+Canada,1.A.1.c.i  Manufacture of Solid Fuels,499.26
+Canada,1.A.1.c.ii  Oil and Gas Extraction,105979.93
+Canada,1.A.2  Manufacturing Industries and Construction,63925.09
+Canada,1.A.2.a  Iron and Steel,6380.33
+Canada,1.A.2.b  Non-Ferrous Metals,2782.16
+Canada,1.A.2.c  Chemicals,10933.31
+Canada,1.A.2.d  Pulp Paper and Print,6900.04
+Canada,1.A.2.f  Non-metallic Minerals,3957.58
+Canada,1.A.2.g  Other,32971.67
+Canada,1.A.2.g.iii  Mining (Excluding Fuels) and Quarrying,4377.72
+Canada,1.A.2.g.v  Construction,1387.86
+Canada,1.A.2.g.vii  Off-road Vehicles and Other Machinery,14506.71
+Canada,1.A.2.g.viii  Other,12699.38
+Canada,1.A.3  Transport,186713.48
+Canada,1.A.3.a  Domestic Aviation,7900.67
+Canada,1.A.3.b  Road Transportation,153694.04
+Canada,1.A.3.b.i  Cars,34687.55
+Canada,1.A.3.b.ii  Light Duty Trucks,53200.19
+Canada,1.A.3.b.iii  Heavy Duty Trucks and Buses,65492.55
+Canada,1.A.3.b.iv  Motorcycles,303.78
+Canada,1.A.3.b.v  Other,9.98
+Canada,1.A.3.c  Railways,7646.97
+Canada,1.A.3.d  Domestic Navigation,3779.6
+Canada,1.A.3.e  Other Transportation,13692.19
+Canada,1.A.3.e.i  Pipeline Transport,8344.9
+Canada,1.A.3.e.ii  Other,5347.28
+Canada,1.A.4  Other Sectors,97360.33
+Canada,1.A.4.a  Commercial/Institutional,35781.62
+Canada,1.A.4.b  Residential,46450.22
+Canada,1.A.4.c  Agriculture/Forestry/Fishing,15128.48
+Canada,1.A.5  Other (Not specified elsewhere),209.83
+Canada,1.B  Fugitive Emissions from Fuels,55464.88
+Canada,1.B.1  Solid Fuels,1330.75
+Canada,1.B.1.a  Coal Mining and Handling,1330.75
+Canada,1.B.1.a.ii  Surface Mines,1173.04
+Canada,1.B.2  Oil and Natural Gas and Other Emissions from Energy Production,54134.13
+Canada,1.B.2.a  Oil,5465.95
+Canada,1.B.2.b  Natural Gas,12391.02
+Canada,1.B.2.c  Venting and Flaring,36277.17
+Canada,1.C  CO₂ Transport and Storage,0.27
+Canada,1.C.1  Transport of CO₂,0.27
+Canada,2.  Industrial Processes and Product Use,56319.99
+Canada,2.A  Mineral Industry,8852.9
+Canada,2.A.4  Other Process Uses of Carbonates,276.93
+Canada,2.B  Chemical Industry,7658.32
+Canada,2.C  Metal Industry,14974.28
+Canada,2.C.1  Iron and Steel Production,9333.27
+Canada,2.C.3  Aluminium Production,5507.31
+Canada,2.C.4  Magnesium Production,133.7
+Canada,2.D  Non-energy Products from Fuels and Solvent Use,11577.29
+Canada,2.E  Electronics Industry,4.06
+Canada,2.F  Product Uses as Substitutes for ODS,12547.64
+Canada,2.G  Other Product Manufacture and Use,705.5
+Canada,3.  Agriculture,59381.63
+Canada,3.A  Enteric Fermentation,24142.14
+Canada,3.B  Manure Management,7917.38
+Canada,3.D  Agricultural Soils,24668.14
+Canada,3.F  Field Burning of Agricultural Residues,48.89
+Canada,3.G  Liming,179.52
+Canada,4.  Land Use Land-Use Change and Forestry,-12860.68
+Canada,4.A  Forest Land,-139729.66
+Canada,4.B  Cropland,-6168.63
+Canada,4.C  Grassland,1.24
+Canada,4.D  Wetlands,2630.31
+Canada,4.E  Settlements,1824.35
+Canada,4.G  Harvested Wood Products,128581.71
+Canada,5.  Waste,17652.42
+Canada,5.A  Solid Waste Disposal,15671.76
+Canada,5.B  Biological Treatment of Solid Waste,445.1
+Canada,5.C  Incineration and Open Burning of Waste,393.3
+Canada,5.D  Wastewater Treatment and Discharge,1142.26
+European Union (Convention),1.  Energy,3279195.41
+European Union (Convention),1.AA  Fuel Combustion - Sectoral approach,3196554.94
+European Union (Convention),1.A.1  Energy Industries,1110143.1
+European Union (Convention),1.A.1.a  Public Electricity and Heat Production,943930.46
+European Union (Convention),1.A.1.b  Petroleum Refining,111301.6
+European Union (Convention),1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries,54911.03
+European Union (Convention),1.A.2  Manufacturing Industries and Construction,500674.76
+European Union (Convention),1.A.2.a  Iron and Steel,98719.63
+European Union (Convention),1.A.2.b  Non-Ferrous Metals,9140.16
+European Union (Convention),1.A.2.c  Chemicals,73149.88
+European Union (Convention),1.A.2.d  Pulp Paper and Print,24868.69
+European Union (Convention),1.A.2.e  Food Processing Beverages and Tobacco,39888.59
+European Union (Convention),1.A.2.f  Non-metallic Minerals,88130.3
+European Union (Convention),1.A.2.g  Other,166777.53
+European Union (Convention),1.A.3  Transport,950056.12
+European Union (Convention),1.A.3.a  Domestic Aviation,16578.26
+European Union (Convention),1.A.3.b  Road Transportation,898889.65
+European Union (Convention),1.A.3.b.i  Cars,542809.54
+European Union (Convention),1.A.3.b.ii  Light Duty Trucks,113140.63
+European Union (Convention),1.A.3.b.iii  Heavy Duty Trucks and Buses,232266.45
+European Union (Convention),1.A.3.b.iv  Motorcycles,10183.62
+European Union (Convention),1.A.3.b.v  Other,489.42
+European Union (Convention),1.A.3.c  Railways,6112.03
+European Union (Convention),1.A.3.d  Domestic Navigation,22009.12
+European Union (Convention),1.A.3.e  Other Transportation,6467.06
+European Union (Convention),1.A.3.e.i  Pipeline Transport,5375.05
+European Union (Convention),1.A.3.e.ii  Other,1092.01
+European Union (Convention),1.A.4  Other Sectors,629478.52
+European Union (Convention),1.A.4.a  Commercial/Institutional,158612.28
+European Union (Convention),1.A.4.b  Residential,389227.27
+European Union (Convention),1.A.4.c  Agriculture/Forestry/Fishing,81638.98
+European Union (Convention),1.A.5  Other (Not specified elsewhere),6202.44
+European Union (Convention),1.B  Fugitive Emissions from Fuels,82640.46
+European Union (Convention),1.B.1  Solid Fuels,33608.38
+European Union (Convention),1.B.1.a  Coal Mining and Handling,29268.25
+European Union (Convention),1.B.1.a.ii  Surface Mines,4714
+European Union (Convention),1.B.1.b  Solid Fuel Transformation,4166.5
+European Union (Convention),1.B.1.c  Other,173.63
+European Union (Convention),1.B.2  Oil and Natural Gas and Other Emissions from Energy Production,49032.08
+European Union (Convention),1.B.2.a  Oil,12956.74
+European Union (Convention),1.B.2.b  Natural Gas,22486.16
+European Union (Convention),1.B.2.c  Venting and Flaring,11432.26
+European Union (Convention),1.B.2.d  Other,2156.92
+European Union (Convention),2.  Industrial Processes and Product Use,371911.93
+European Union (Convention),2.A  Mineral Industry,112147.53
+European Union (Convention),2.A.4  Other Process Uses of Carbonates,10198.86
+European Union (Convention),2.B  Chemical Industry,65296.86
+European Union (Convention),2.C  Metal Industry,73836.02
+European Union (Convention),2.C.1  Iron and Steel Production,64610.54
+European Union (Convention),2.C.2  Ferroalloys Production,3056.26
+European Union (Convention),2.C.3  Aluminium Production,3797.34
+European Union (Convention),2.C.4  Magnesium Production,279.9
+European Union (Convention),2.C.5  Lead Production,208.31
+European Union (Convention),2.C.6  Zinc Production,1088.07
+European Union (Convention),2.C.7  Other,795.6
+European Union (Convention),2.D  Non-energy Products from Fuels and Solvent Use,9697.83
+European Union (Convention),2.E  Electronics Industry,824.73
+European Union (Convention),2.F  Product Uses as Substitutes for ODS,98228.48
+European Union (Convention),2.G  Other Product Manufacture and Use,11505.33
+European Union (Convention),2.H  Other,375.14
+European Union (Convention),3.  Agriculture,435262.69
+European Union (Convention),3.A  Enteric Fermentation,193737.14
+European Union (Convention),3.B  Manure Management,63192.76
+European Union (Convention),3.C  Rice Cultivation,2532.26
+European Union (Convention),3.D  Agricultural Soils,163003.36
+European Union (Convention),3.F  Field Burning of Agricultural Residues,634.82
+European Union (Convention),3.G  Liming,6003.96
+European Union (Convention),4.  Land Use Land-Use Change and Forestry,-272964.37
+European Union (Convention),4.A  Forest Land,-364956.66
+European Union (Convention),4.B  Cropland,64641.74
+European Union (Convention),4.C  Grassland,-216.79
+European Union (Convention),4.D  Wetlands,17110.45
+European Union (Convention),4.E  Settlements,52076.5
+European Union (Convention),4.F  Other Land,1551.88
+European Union (Convention),4.G  Harvested Wood Products,-44620.52
+European Union (Convention),5.  Waste,137988.26
+European Union (Convention),5.A  Solid Waste Disposal,99042.48
+European Union (Convention),5.B  Biological Treatment of Solid Waste,8240.41
+European Union (Convention),5.C  Incineration and Open Burning of Waste,4045.21
+European Union (Convention),5.D  Wastewater Treatment and Discharge,26568.14
+France,1.  Energy,318344.48
+France,1.AA  Fuel Combustion - Sectoral approach,314236.37
+France,1.A.1  Energy Industries,42201.15
+France,1.A.1.a  Public Electricity and Heat Production,32972.39
+France,1.A.1.b  Petroleum Refining,6232.18
+France,1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries,2996.58
+France,1.A.2  Manufacturing Industries and Construction,55682.77
+France,1.A.2.a  Iron and Steel,17533.1
+France,1.A.2.b  Non-Ferrous Metals,752.26
+France,1.A.2.c  Chemicals,10638.42
+France,1.A.2.d  Pulp Paper and Print,2327.68
+France,1.A.2.e  Food Processing Beverages and Tobacco,7172.65
+France,1.A.2.f  Non-metallic Minerals,8579.59
+France,1.A.2.g  Other,8679.06
+France,1.A.3  Transport,133459.53
+France,1.A.3.a  Domestic Aviation,5336.35
+France,1.A.3.b  Road Transportation,125831.47
+France,1.A.3.b.i  Cars,70784.85
+France,1.A.3.b.ii  Light Duty Trucks,25389.26
+France,1.A.3.b.iii  Heavy Duty Trucks and Buses,27958.56
+France,1.A.3.b.iv  Motorcycles,1698.79
+France,1.A.3.c  Railways,414.98
+France,1.A.3.d  Domestic Navigation,1495.9
+France,1.A.3.e  Other Transportation,380.83
+France,1.A.3.e.i  Pipeline Transport,380.83
+France,1.A.4  Other Sectors,82892.91
+France,1.A.4.a  Commercial/Institutional,28268.97
+France,1.A.4.b  Residential,43196.19
+France,1.A.4.c  Agriculture/Forestry/Fishing,11427.76
+France,1.B  Fugitive Emissions from Fuels,4108.12
+France,1.B.1  Solid Fuels,17.62
+France,1.B.1.a  Coal Mining and Handling,10.05
+France,1.B.1.b  Solid Fuel Transformation,7.57
+France,1.B.2  Oil and Natural Gas and Other Emissions from Energy Production,4090.49
+France,1.B.2.a  Oil,2533.08
+France,1.B.2.b  Natural Gas,1023.88
+France,1.B.2.c  Venting and Flaring,533.54
+France,2.  Industrial Processes and Product Use,41204.56
+France,2.A  Mineral Industry,9939.21
+France,2.A.4  Other Process Uses of Carbonates,383.88
+France,2.B  Chemical Industry,7647.33
+France,2.C  Metal Industry,5024.36
+France,2.C.1  Iron and Steel Production,2566.28
+France,2.C.2  Ferroalloys Production,1621.83
+France,2.C.3  Aluminium Production,690.57
+France,2.C.6  Zinc Production,74.86
+France,2.C.7  Other,70.83
+France,2.D  Non-energy Products from Fuels and Solvent Use,1201.12
+France,2.E  Electronics Industry,104.71
+France,2.F  Product Uses as Substitutes for ODS,15794.59
+France,2.G  Other Product Manufacture and Use,1493.2
+France,2.H  Other,0.04
+France,3.  Agriculture,75028.74
+France,3.A  Enteric Fermentation,34316.09
+France,3.B  Manure Management,6387.34
+France,3.C  Rice Cultivation,63.08
+France,3.D  Agricultural Soils,32183.62
+France,3.F  Field Burning of Agricultural Residues,60.03
+France,3.G  Liming,731.54
+France,4.  Land Use Land-Use Change and Forestry,-25381.62
+France,4.A  Forest Land,-49174.68
+France,4.B  Cropland,19334.8
+France,4.C  Grassland,-7490.04
+France,4.D  Wetlands,520.81
+France,4.E  Settlements,11621.77
+France,4.G  Harvested Wood Products,-913.99
+France,5.  Waste,17631.9
+France,5.A  Solid Waste Disposal,12197.46
+France,5.B  Biological Treatment of Solid Waste,1211.81
+France,5.C  Incineration and Open Burning of Waste,1517.5
+France,5.D  Wastewater Treatment and Discharge,2705.12
+Germany,1.  Energy,720283.83
+Germany,1.AA  Fuel Combustion - Sectoral approach,711758.14
+Germany,1.A.1  Energy Industries,295191.76
+Germany,1.A.1.a  Public Electricity and Heat Production,266224.92
+Germany,1.A.1.a.iv  Other,266224.92
+Germany,1.A.1.b  Petroleum Refining,18953.66
+Germany,1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries,10013.18
+Germany,1.A.1.c.iv  Other,10013.18
+Germany,1.A.2  Manufacturing Industries and Construction,130123.87
+Germany,1.A.2.a  Iron and Steel,36707.35
+Germany,1.A.2.b  Non-Ferrous Metals,153.08
+Germany,1.A.2.d  Pulp Paper and Print,18.76
+Germany,1.A.2.e  Food Processing Beverages and Tobacco,186.85
+Germany,1.A.2.f  Non-metallic Minerals,13847.55
+Germany,1.A.2.g  Other,79210.28
+Germany,1.A.2.g.vii  Off-road Vehicles and Other Machinery,3242.55
+Germany,1.A.3  Transport,163620.06
+Germany,1.A.3.a  Domestic Aviation,2014.94
+Germany,1.A.3.b  Road Transportation,157707.09
+Germany,1.A.3.b.i  Cars,97824.1
+Germany,1.A.3.b.ii  Light Duty Trucks,11339.37
+Germany,1.A.3.b.iii  Heavy Duty Trucks and Buses,47117.4
+Germany,1.A.3.b.iv  Motorcycles,1420.72
+Germany,1.A.3.b.v  Other,5.51
+Germany,1.A.3.c  Railways,847.96
+Germany,1.A.3.d  Domestic Navigation,1708.6
+Germany,1.A.3.e  Other Transportation,1341.47
+Germany,1.A.3.e.i  Pipeline Transport,1341.47
+Germany,1.A.4  Other Sectors,122070.3
+Germany,1.A.4.a  Commercial/Institutional,32127.16
+Germany,1.A.4.b  Residential,83694.42
+Germany,1.A.4.c  Agriculture/Forestry/Fishing,6248.72
+Germany,1.A.5  Other (Not specified elsewhere),752.16
+Germany,1.B  Fugitive Emissions from Fuels,8525.69
+Germany,1.B.1  Solid Fuels,2283.49
+Germany,1.B.1.a  Coal Mining and Handling,1565.65
+Germany,1.B.1.a.ii  Surface Mines,45.72
+Germany,1.B.1.b  Solid Fuel Transformation,717.84
+Germany,1.B.2  Oil and Natural Gas and Other Emissions from Energy Production,6242.2
+Germany,1.B.2.a  Oil,474.68
+Germany,1.B.2.b  Natural Gas,5424.48
+Germany,1.B.2.c  Venting and Flaring,343.04
+Germany,2.  Industrial Processes and Product Use,64791.53
+Germany,2.A  Mineral Industry,19561.67
+Germany,2.A.4  Other Process Uses of Carbonates,598.81
+Germany,2.B  Chemical Industry,6669.83
+Germany,2.C  Metal Industry,21503.74
+Germany,2.C.1  Iron and Steel Production,20151.2
+Germany,2.C.2  Ferroalloys Production,8.11
+Germany,2.C.3  Aluminium Production,848.99
+Germany,2.C.4  Magnesium Production,105.16
+Germany,2.C.5  Lead Production,67.45
+Germany,2.C.6  Zinc Production,305.29
+Germany,2.C.7  Other,17.55
+Germany,2.D  Non-energy Products from Fuels and Solvent Use,2034.86
+Germany,2.E  Electronics Industry,212.7
+Germany,2.F  Product Uses as Substitutes for ODS,10448.17
+Germany,2.G  Other Product Manufacture and Use,4226.56
+Germany,2.H  Other,134.01
+Germany,3.  Agriculture,63564.89
+Germany,3.A  Enteric Fermentation,25068.63
+Germany,3.B  Manure Management,9328.72
+Germany,3.D  Agricultural Soils,24646.44
+Germany,3.G  Liming,2140.05
+Germany,4.  Land Use Land-Use Change and Forestry,-26931.73
+Germany,4.A  Forest Land,-66999.31
+Germany,4.B  Cropland,16475.09
+Germany,4.C  Grassland,15935.21
+Germany,4.D  Wetlands,4382.73
+Germany,4.E  Settlements,6209.06
+Germany,4.G  Harvested Wood Products,-3239.37
+Germany,5.  Waste,9728.43
+Germany,5.A  Solid Waste Disposal,7578.4
+Germany,5.B  Biological Treatment of Solid Waste,1035.45
+Germany,5.D  Wastewater Treatment and Discharge,1043.46
+Italy,1.  Energy,344328.09
+Italy,1.AA  Fuel Combustion - Sectoral approach,337528.77
+Italy,1.A.1  Energy Industries,95805.32
+Italy,1.A.1.a  Public Electricity and Heat Production,70302.72
+Italy,1.A.1.b  Petroleum Refining,19838.92
+Italy,1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries,5663.68
+Italy,1.A.2  Manufacturing Industries and Construction,53936.41
+Italy,1.A.2.a  Iron and Steel,10106.84
+Italy,1.A.2.b  Non-Ferrous Metals,1140.55
+Italy,1.A.2.c  Chemicals,11585.03
+Italy,1.A.2.d  Pulp Paper and Print,4916
+Italy,1.A.2.e  Food Processing Beverages and Tobacco,3753.87
+Italy,1.A.2.f  Non-metallic Minerals,12286.22
+Italy,1.A.2.g  Other,10147.9
+Italy,1.A.3  Transport,104263.14
+Italy,1.A.3.a  Domestic Aviation,2338.31
+Italy,1.A.3.b  Road Transportation,96865.93
+Italy,1.A.3.b.i  Cars,67093.2
+Italy,1.A.3.b.ii  Light Duty Trucks,10542.45
+Italy,1.A.3.b.iii  Heavy Duty Trucks and Buses,16900.42
+Italy,1.A.3.b.iv  Motorcycles,2329.86
+Italy,1.A.3.c  Railways,154.84
+Italy,1.A.3.d  Domestic Navigation,4098.92
+Italy,1.A.3.e  Other Transportation,805.13
+Italy,1.A.3.e.i  Pipeline Transport,805.13
+Italy,1.A.4  Other Sectors,83172.6
+Italy,1.A.4.a  Commercial/Institutional,25274.37
+Italy,1.A.4.b  Residential,49650.92
+Italy,1.A.4.c  Agriculture/Forestry/Fishing,8247.31
+Italy,1.A.5  Other (Not specified elsewhere),351.3
+Italy,1.B  Fugitive Emissions from Fuels,6799.32
+Italy,1.B.1  Solid Fuels,34.28
+Italy,1.B.1.a  Coal Mining and Handling,9.97
+Italy,1.B.1.b  Solid Fuel Transformation,24.31
+Italy,1.B.2  Oil and Natural Gas and Other Emissions from Energy Production,6765.04
+Italy,1.B.2.a  Oil,1864.42
+Italy,1.B.2.b  Natural Gas,4125.59
+Italy,1.B.2.c  Venting and Flaring,496.71
+Italy,1.B.2.d  Other,278.31
+Italy,2.  Industrial Processes and Product Use,34724.28
+Italy,2.A  Mineral Industry,10899.86
+Italy,2.A.4  Other Process Uses of Carbonates,670.57
+Italy,2.B  Chemical Industry,3248.15
+Italy,2.C  Metal Industry,1730.91
+Italy,2.C.1  Iron and Steel Production,1475.84
+Italy,2.C.4  Magnesium Production,9.73
+Italy,2.C.6  Zinc Production,245.34
+Italy,2.D  Non-energy Products from Fuels and Solvent Use,1096.72
+Italy,2.E  Electronics Industry,246.02
+Italy,2.F  Product Uses as Substitutes for ODS,16551.56
+Italy,2.G  Other Product Manufacture and Use,951.06
+Italy,3.  Agriculture,30186.58
+Italy,3.A  Enteric Fermentation,14202.26
+Italy,3.B  Manure Management,5669.99
+Italy,3.C  Rice Cultivation,1553.04
+Italy,3.D  Agricultural Soils,8321.84
+Italy,3.F  Field Burning of Agricultural Residues,18.74
+Italy,3.G  Liming,15.45
+Italy,4.  Land Use Land-Use Change and Forestry,-36265.89
+Italy,4.A  Forest Land,-33392.51
+Italy,4.B  Cropland,-32.05
+Italy,4.C  Grassland,-8271.38
+Italy,4.D  Wetlands,52.69
+Italy,4.E  Settlements,5546.82
+Italy,4.G  Harvested Wood Products,-183.45
+Italy,5.  Waste,18290.07
+Italy,5.A  Solid Waste Disposal,13704.33
+Italy,5.B  Biological Treatment of Solid Waste,633.65
+Italy,5.C  Incineration and Open Burning of Waste,165.06
+Italy,5.D  Wastewater Treatment and Discharge,3787.03
+Japan,1.  Energy,1085718.54
+Japan,1.AA  Fuel Combustion - Sectoral approach,1084563.71
+Japan,1.A.1  Energy Industries,474853.98
+Japan,1.A.1.a  Public Electricity and Heat Production,420273.3
+Japan,1.A.1.b  Petroleum Refining,36508.28
+Japan,1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries,18072.4
+Japan,1.A.2  Manufacturing Industries and Construction,264928.85
+Japan,1.A.2.a  Iron and Steel,136556.74
+Japan,1.A.2.b  Non-Ferrous Metals,3132.66
+Japan,1.A.2.c  Chemicals,40927.43
+Japan,1.A.2.d  Pulp Paper and Print,20616.13
+Japan,1.A.2.e  Food Processing Beverages and Tobacco,8223.98
+Japan,1.A.2.f  Non-metallic Minerals,27208.95
+Japan,1.A.2.g  Other,28262.95
+Japan,1.A.3  Transport,204710.47
+Japan,1.A.3.a  Domestic Aviation,10629.62
+Japan,1.A.3.b  Road Transportation,182873.95
+Japan,1.A.3.b.i  Cars,99904.05
+Japan,1.A.3.b.iii  Heavy Duty Trucks and Buses,82172.1
+Japan,1.A.3.b.iv  Motorcycles,797.8
+Japan,1.A.3.c  Railways,557.08
+Japan,1.A.3.d  Domestic Navigation,10649.81
+Japan,1.A.4  Other Sectors,140070.41
+Japan,1.A.4.a  Commercial/Institutional,72258.31
+Japan,1.A.4.b  Residential,52354.4
+Japan,1.A.4.c  Agriculture/Forestry/Fishing,15457.71
+Japan,1.B  Fugitive Emissions from Fuels,1154.83
+Japan,1.B.1  Solid Fuels,479.21
+Japan,1.B.1.a  Coal Mining and Handling,462.92
+Japan,1.B.1.a.ii  Surface Mines,14.1
+Japan,1.B.1.b  Solid Fuel Transformation,16.28
+Japan,1.B.2  Oil and Natural Gas and Other Emissions from Energy Production,675.62
+Japan,1.B.2.a  Oil,18.18
+Japan,1.B.2.b  Natural Gas,232.94
+Japan,1.B.2.c  Venting and Flaring,246.16
+Japan,1.B.2.d  Other,178.34
+Japan,2.  Industrial Processes and Product Use,100105.03
+Japan,2.A  Mineral Industry,33707.09
+Japan,2.A.4  Other Process Uses of Carbonates,1659.29
+Japan,2.B  Chemical Industry,5039.79
+Japan,2.C  Metal Industry,6005.53
+Japan,2.C.1  Iron and Steel Production,5727.37
+Japan,2.C.2  Ferroalloys Production,2.85
+Japan,2.C.4  Magnesium Production,275.32
+Japan,2.D  Non-energy Products from Fuels and Solvent Use,2643.96
+Japan,2.E  Electronics Industry,2541.73
+Japan,2.F  Product Uses as Substitutes for ODS,48277.61
+Japan,2.G  Other Product Manufacture and Use,1783.98
+Japan,2.H  Other,105.33
+Japan,3.  Agriculture,33252.43
+Japan,3.A  Enteric Fermentation,7465.58
+Japan,3.B  Manure Management,6245.21
+Japan,3.C  Rice Cultivation,13560.65
+Japan,3.D  Agricultural Soils,5411.67
+Japan,3.F  Field Burning of Agricultural Residues,82.97
+Japan,3.G  Liming,293.54
+Japan,4.  Land Use Land-Use Change and Forestry,-57390.07
+Japan,4.A  Forest Land,-58894.91
+Japan,4.B  Cropland,3590.56
+Japan,4.C  Grassland,-235.98
+Japan,4.D  Wetlands,17.3
+Japan,4.E  Settlements,-26.86
+Japan,4.F  Other Land,166.26
+Japan,4.G  Harvested Wood Products,-2046.01
+Japan,5.  Waste,19266.71
+Japan,5.A  Solid Waste Disposal,2930.29
+Japan,5.B  Biological Treatment of Solid Waste,385.02
+Japan,5.C  Incineration and Open Burning of Waste,11678.28
+Japan,5.D  Wastewater Treatment and Discharge,3599.78
+Russian Federation,1.  Energy,1752621.26
+Russian Federation,1.AA  Fuel Combustion - Sectoral approach,1473427.81
+Russian Federation,1.A.1  Energy Industries,825088.89
+Russian Federation,1.A.1.a  Public Electricity and Heat Production,738415.55
+Russian Federation,1.A.1.a.ii  Combined Heat and Power Generation,738415.55
+Russian Federation,1.A.1.b  Petroleum Refining,54252.68
+Russian Federation,1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries,32420.65
+Russian Federation,1.A.1.c.i  Manufacture of Solid Fuels,1610.49
+Russian Federation,1.A.1.c.ii  Oil and Gas Extraction,30810.16
+Russian Federation,1.A.2  Manufacturing Industries and Construction,166829.51
+Russian Federation,1.A.2.a  Iron and Steel,48539.35
+Russian Federation,1.A.2.c  Chemicals,11524.12
+Russian Federation,1.A.2.d  Pulp Paper and Print,10539.29
+Russian Federation,1.A.2.e  Food Processing Beverages and Tobacco,6291.12
+Russian Federation,1.A.2.f  Non-metallic Minerals,22236.82
+Russian Federation,1.A.2.g  Other,67698.81
+Russian Federation,1.A.2.g.viii  Other,67698.81
+Russian Federation,1.A.3  Transport,254077.22
+Russian Federation,1.A.3.a  Domestic Aviation,12659.59
+Russian Federation,1.A.3.b  Road Transportation,161266.29
+Russian Federation,1.A.3.b.i  Cars,95727.04
+Russian Federation,1.A.3.b.ii  Light Duty Trucks,16777.43
+Russian Federation,1.A.3.b.iii  Heavy Duty Trucks and Buses,47990.87
+Russian Federation,1.A.3.b.iv  Motorcycles,770.95
+Russian Federation,1.A.3.c  Railways,8993.03
+Russian Federation,1.A.3.d  Domestic Navigation,2460.58
+Russian Federation,1.A.3.e  Other Transportation,68697.73
+Russian Federation,1.A.3.e.i  Pipeline Transport,68697.73
+Russian Federation,1.A.4  Other Sectors,207834.5
+Russian Federation,1.A.4.a  Commercial/Institutional,5516.12
+Russian Federation,1.A.4.b  Residential,186004.05
+Russian Federation,1.A.4.c  Agriculture/Forestry/Fishing,16314.33
+Russian Federation,1.A.5  Other (Not specified elsewhere),19597.7
+Russian Federation,1.B  Fugitive Emissions from Fuels,279193.45
+Russian Federation,1.B.1  Solid Fuels,68493.21
+Russian Federation,1.B.1.a  Coal Mining and Handling,68493.21
+Russian Federation,1.B.1.a.ii  Surface Mines,31942.04
+Russian Federation,1.B.2  Oil and Natural Gas and Other Emissions from Energy Production,210700.24
+Russian Federation,1.B.2.a  Oil,38406.17
+Russian Federation,1.B.2.b  Natural Gas,124127.86
+Russian Federation,1.B.2.c  Venting and Flaring,48166.21
+Russian Federation,2.  Industrial Processes and Product Use,243136.92
+Russian Federation,2.A  Mineral Industry,36896.21
+Russian Federation,2.A.4  Other Process Uses of Carbonates,7082.43
+Russian Federation,2.B  Chemical Industry,77763.46
+Russian Federation,2.C  Metal Industry,106820.91
+Russian Federation,2.C.1  Iron and Steel Production,94359.7
+Russian Federation,2.C.2  Ferroalloys Production,3412.35
+Russian Federation,2.C.3  Aluminium Production,8803.97
+Russian Federation,2.C.5  Lead Production,79.89
+Russian Federation,2.C.6  Zinc Production,165.01
+Russian Federation,2.D  Non-energy Products from Fuels and Solvent Use,1492.35
+Russian Federation,2.E  Electronics Industry,19.35
+Russian Federation,2.F  Product Uses as Substitutes for ODS,18703.38
+Russian Federation,2.G  Other Product Manufacture and Use,1441.24
+Russian Federation,3.  Agriculture,126659.42
+Russian Federation,3.A  Enteric Fermentation,48964.31
+Russian Federation,3.B  Manure Management,14620.61
+Russian Federation,3.C  Rice Cultivation,562.28
+Russian Federation,3.D  Agricultural Soils,61533.32
+Russian Federation,3.G  Liming,795.44
+Russian Federation,4.  Land Use Land-Use Change and Forestry,-590573.1
+Russian Federation,4.A  Forest Land,-635361.89
+Russian Federation,4.B  Cropland,69599.23
+Russian Federation,4.C  Grassland,-54191.9
+Russian Federation,4.D  Wetlands,2382
+Russian Federation,4.E  Settlements,9366.23
+Russian Federation,4.F  Other Land,1868.9
+Russian Federation,4.G  Harvested Wood Products,15667.15
+Russian Federation,5.  Waste,97705.35
+Russian Federation,5.A  Solid Waste Disposal,70613.42
+Russian Federation,5.B  Biological Treatment of Solid Waste,11.25
+Russian Federation,5.D  Wastewater Treatment and Discharge,27080.68
+Sweden,1.  Energy,36401.63
+Sweden,1.AA  Fuel Combustion - Sectoral approach,35518.72
+Sweden,1.A.1  Energy Industries,9423.26
+Sweden,1.A.1.a  Public Electricity and Heat Production,7003.82
+Sweden,1.A.1.a.i  Electricity Generation,22.12
+Sweden,1.A.1.a.ii  Combined Heat and Power Generation,6185.05
+Sweden,1.A.1.a.iii  Heat Plants,796.65
+Sweden,1.A.1.b  Petroleum Refining,2057.34
+Sweden,1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries,362.1
+Sweden,1.A.1.c.i  Manufacture of Solid Fuels,362.1
+Sweden,1.A.2  Manufacturing Industries and Construction,6910.55
+Sweden,1.A.2.a  Iron and Steel,1343.43
+Sweden,1.A.2.b  Non-Ferrous Metals,99.67
+Sweden,1.A.2.c  Chemicals,559.05
+Sweden,1.A.2.d  Pulp Paper and Print,866.24
+Sweden,1.A.2.e  Food Processing Beverages and Tobacco,325.37
+Sweden,1.A.2.f  Non-metallic Minerals,1205.12
+Sweden,1.A.2.g  Other,2511.66
+Sweden,1.A.2.g.vii  Off-road Vehicles and Other Machinery,1288.47
+Sweden,1.A.2.g.viii  Other,1223.19
+Sweden,1.A.3  Transport,16472.29
+Sweden,1.A.3.a  Domestic Aviation,530.92
+Sweden,1.A.3.b  Road Transportation,14980.26
+Sweden,1.A.3.b.i  Cars,10006.7
+Sweden,1.A.3.b.ii  Light Duty Trucks,1470.59
+Sweden,1.A.3.b.iii  Heavy Duty Trucks and Buses,3423.6
+Sweden,1.A.3.b.iv  Motorcycles,79.37
+Sweden,1.A.3.c  Railways,44.31
+Sweden,1.A.3.d  Domestic Navigation,738.06
+Sweden,1.A.3.e  Other Transportation,178.74
+Sweden,1.A.3.e.i  Pipeline Transport,2.17
+Sweden,1.A.3.e.ii  Other,176.57
+Sweden,1.A.4  Other Sectors,2543.1
+Sweden,1.A.4.a  Commercial/Institutional,707.19
+Sweden,1.A.4.b  Residential,583.26
+Sweden,1.A.4.c  Agriculture/Forestry/Fishing,1252.66
+Sweden,1.A.5  Other (Not specified elsewhere),169.52
+Sweden,1.B  Fugitive Emissions from Fuels,882.91
+Sweden,1.B.1  Solid Fuels,4.44
+Sweden,1.B.1.c  Other,4.44
+Sweden,1.B.2  Oil and Natural Gas and Other Emissions from Energy Production,878.46
+Sweden,1.B.2.a  Oil,809.7
+Sweden,1.B.2.b  Natural Gas,31.13
+Sweden,1.B.2.c  Venting and Flaring,37.63
+Sweden,2.  Industrial Processes and Product Use,7341.82
+Sweden,2.A  Mineral Industry,2030.23
+Sweden,2.A.4  Other Process Uses of Carbonates,19.06
+Sweden,2.B  Chemical Industry,900.37
+Sweden,2.C  Metal Industry,2678.42
+Sweden,2.C.1  Iron and Steel Production,1977.91
+Sweden,2.C.3  Aluminium Production,249.23
+Sweden,2.C.4  Magnesium Production,0.41
+Sweden,2.D  Non-energy Products from Fuels and Solvent Use,442.47
+Sweden,2.F  Product Uses as Substitutes for ODS,1034.8
+Sweden,2.G  Other Product Manufacture and Use,149.02
+Sweden,2.H  Other,106.51
+Sweden,3.  Agriculture,6790.17
+Sweden,3.A  Enteric Fermentation,3006.81
+Sweden,3.B  Manure Management,596.08
+Sweden,3.D  Agricultural Soils,3058.74
+Sweden,3.G  Liming,126.7
+Sweden,4.  Land Use Land-Use Change and Forestry,-41993.96
+Sweden,4.A  Forest Land,-43418.76
+Sweden,4.B  Cropland,4037.01
+Sweden,4.C  Grassland,-113.26
+Sweden,4.D  Wetlands,241.75
+Sweden,4.E  Settlements,2926.65
+Sweden,4.F  Other Land,32.07
+Sweden,4.G  Harvested Wood Products,-5702.33
+Sweden,5.  Waste,1245.62
+Sweden,5.A  Solid Waste Disposal,781.53
+Sweden,5.B  Biological Treatment of Solid Waste,105.2
+Sweden,5.C  Incineration and Open Burning of Waste,129.54
+Sweden,5.D  Wastewater Treatment and Discharge,229.36
+United States of America,1.  Energy,5547207.94
+United States of America,1.AA  Fuel Combustion - Sectoral approach,5233213.44
+United States of America,1.A.1  Energy Industries,1927683
+United States of America,1.A.1.a  Public Electricity and Heat Production,1778460.13
+United States of America,1.A.1.a.i  Electricity Generation,1778460.13
+United States of America,1.A.1.b  Petroleum Refining,92313.15
+United States of America,1.A.1.c  Manufacture of Solid Fuels and Other Energy Industries,56909.72
+United States of America,1.A.1.c.i  Manufacture of Solid Fuels,56909.72
+United States of America,1.A.2  Manufacturing Industries and Construction,687957.59
+United States of America,1.A.2.a  Iron and Steel,14808.42
+United States of America,1.A.2.b  Non-Ferrous Metals,3703.23
+United States of America,1.A.2.c  Chemicals,85049.15
+United States of America,1.A.2.d  Pulp Paper and Print,29353
+United States of America,1.A.2.e  Food Processing Beverages and Tobacco,33726.41
+United States of America,1.A.2.f  Non-metallic Minerals,22483.49
+United States of America,1.A.2.g  Other,498833.9
+United States of America,1.A.2.g.viii  Other,498833.9
+United States of America,1.A.3  Transport,1821574.7
+United States of America,1.A.3.a  Domestic Aviation,162545.04
+United States of America,1.A.3.b  Road Transportation,1532630.01
+United States of America,1.A.3.b.i  Cars,765966.58
+United States of America,1.A.3.b.ii  Light Duty Trucks,309945.7
+United States of America,1.A.3.b.iii  Heavy Duty Trucks and Buses,452854.12
+United States of America,1.A.3.b.iv  Motorcycles,3863.61
+United States of America,1.A.3.c  Railways,39276.2
+United States of America,1.A.3.d  Domestic Navigation,33743.86
+United States of America,1.A.3.e  Other Transportation,53379.58
+United States of America,1.A.3.e.i  Pipeline Transport,49176.11
+United States of America,1.A.3.e.ii  Other,4203.47
+United States of America,1.A.4  Other Sectors,591017.55
+United States of America,1.A.4.a  Commercial/Institutional,248054.53
+United States of America,1.A.4.b  Residential,342684.13
+United States of America,1.A.4.c  Agriculture/Forestry/Fishing,278.89
+United States of America,1.A.5  Other (Not specified elsewhere),204980.59
+United States of America,1.B  Fugitive Emissions from Fuels,313994.49
+United States of America,1.B.1  Solid Fuels,58918.47
+United States of America,1.B.1.a  Coal Mining and Handling,58918.47
+United States of America,1.B.1.a.ii  Surface Mines,8526.91
+United States of America,1.B.2  Oil and Natural Gas and Other Emissions from Energy Production,255076.03
+United States of America,1.B.2.a  Oil,78718.38
+United States of America,1.B.2.b  Natural Gas,176288.47
+United States of America,1.B.2.c  Venting and Flaring,69.17
+United States of America,2.  Industrial Processes and Product Use,376501.56
+United States of America,2.A  Mineral Industry,64763.85
+United States of America,2.A.4  Other Process Uses of Carbonates,9954.1
+United States of America,2.B  Chemical Industry,80102.61
+United States of America,2.C  Metal Industry,50432.29
+United States of America,2.C.1  Iron and Steel Production,42608.25
+United States of America,2.C.2  Ferroalloys Production,2077.32
+United States of America,2.C.3  Aluminium Production,3028.05
+United States of America,2.C.4  Magnesium Production,1196.55
+United States of America,2.C.5  Lead Production,513
+United States of America,2.C.6  Zinc Production,1009.11
+United States of America,2.E  Electronics Industry,4805.26
+United States of America,2.F  Product Uses as Substitutes for ODS,167859.09
+United States of America,2.G  Other Product Manufacture and Use,8282.93
+United States of America,2.H  Other,255.53
+United States of America,3.  Agriculture,618501.74
+United States of America,3.A  Enteric Fermentation,177573.78
+United States of America,3.B  Manure Management,81128.66
+United States of America,3.C  Rice Cultivation,13328.98
+United States of America,3.D  Agricultural Soils,338155.86
+United States of America,3.F  Field Burning of Agricultural Residues,568.96
+United States of America,3.G  Liming,3147.26
+United States of America,4.  Land Use Land-Use Change and Forestry,-773496.36
+United States of America,4.A  Forest Land,-655816.73
+United States of America,4.B  Cropland,38730.97
+United States of America,4.C  Grassland,-12769.32
+United States of America,4.D  Wetlands,-725.98
+United States of America,4.E  Settlements,-45460.19
+United States of America,4.G  Harvested Wood Products,-98782
+United States of America,5.  Waste,134438.38
+United States of America,5.A  Solid Waste Disposal,110559.66
+United States of America,5.B  Biological Treatment of Solid Waste,4658.14
+United States of America,5.D  Wastewater Treatment and Discharge,19220.59

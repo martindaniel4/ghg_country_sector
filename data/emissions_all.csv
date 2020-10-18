@@ -1,0 +1,365 @@
+Country,emissions,level,name,parent,is_leaf,value
+Australia,0.0,root,,,0,0.0
+Canada,0.0,root,,,0,0.0
+European Union (Convention),0.0,root,,,0,0.0
+France,0.0,root,,,0,0.0
+Germany,0.0,root,,,0,0.0
+Italy,0.0,root,,,0,0.0
+Japan,0.0,root,,,0,0.0
+Russian Federation,0.0,root,,,0,0.0
+Sweden,0.0,root,,,0,0.0
+United States of America,0.0,root,,,0,0.0
+Australia,435570.94,1,Energy,root,0,0.0
+Australia,213835.41,1.A,Energy Industries,1,0,0.0
+Australia,183170.46,1.A.1,Electricity and Heat Production,1.A,1,183170.46
+Australia,3078.61,1.A.2,Petroleum Refining,1.A,1,3078.61
+Australia,27586.35,1.A.3,Solid Fuels and Other Energy Industries,1.A,1,27586.35
+Australia,40719.95,1.B,Manufacturing Industries and Construction,1,1,40719.95
+Australia,100795.81,1.C,Transport,1,0,0.0
+Australia,9019.78,1.C.1,Domestic Aviation,1.C,1,9019.78
+Australia,85189.01,1.C.2,Road Transportation,1.C,1,85189.01
+Australia,4025.62,1.C.3,Railways,1.C,1,4025.62
+Australia,1723.45,1.C.4,Other transportation,1.C,1,1723.45
+Australia,837.94,1.C.5,Other transportation,1.C,1,837.94
+Australia,24942.03,1.D,Other sector,1,1,24942.03
+Australia,827.89,1.E,Other,1,1,827.89
+Australia,54449.83,1.F,Fugitive emissions,1,0,0.0
+Australia,26673.47,1.F.1,"Coal, solid fuels",1.F,1,26673.47
+Australia,27776.37,1.F.2,"Oil, gas and flaring",1.F,1,27776.37
+Australia,34197.45,2,Industry,root,0,0.0
+Australia,5522.79,2.A,Mineral,2,1,5522.79
+Australia,5098.38,2.B,Chemical,2,1,5098.38
+Australia,10975.52,2.C,Metal,2,1,10975.52
+Australia,171.25,2.D,"Fuels, Solvent Use",2,1,171.25
+Australia,11982.08,2.F,Substitutes for ODS,2,1,11982.08
+Australia,228.53,2.G,Other industry,2,1,228.53
+Australia,218.9,2.H,Other industry,2,1,218.9
+Australia,75587.64,3,Agriculture,root,0,0.0
+Australia,51668.3,3.A,Enteric Fermentation,3,1,51668.3
+Australia,7361.31,3.B,Manure Management,3,1,7361.31
+Australia,254.03,3.C,Rice Cultivation,3,1,254.03
+Australia,13303.83,3.D,Agricultural Soils,3,1,13303.83
+Australia,325.46,3.F,Field Burning,3,1,325.46
+Australia,1318.39,3.G,Liming,3,1,1318.39
+Australia,12691.19,4,Waste,root,0,0.0
+Australia,9045.09,4.A,Solid Waste Disposal,4,1,9045.09
+Australia,281.4,4.B,Biological Treatment,4,1,281.4
+Australia,30.7,4.C,Incineration,4,1,30.7
+Australia,3334.0,4.D,Wastewater Treatment and Discharge,4,1,3334.0
+Canada,595995.22,1,Energy,root,0,0.0
+Canada,192321.35,1.A,Energy Industries,1,0,0.0
+Canada,69891.78,1.A.1,Electricity and Heat Production,1.A,1,69891.78
+Canada,15950.38,1.A.2,Petroleum Refining,1.A,1,15950.38
+Canada,106479.19,1.A.3,Solid Fuels and Other Energy Industries,1.A,1,106479.19
+Canada,63925.09,1.B,Manufacturing Industries and Construction,1,1,63925.09
+Canada,186713.48,1.C,Transport,1,0,0.0
+Canada,7900.67,1.C.1,Domestic Aviation,1.C,1,7900.67
+Canada,153694.04,1.C.2,Road Transportation,1.C,1,153694.04
+Canada,7646.97,1.C.3,Railways,1.C,1,7646.97
+Canada,3779.6,1.C.4,Other transportation,1.C,1,3779.6
+Canada,13692.19,1.C.5,Other transportation,1.C,1,13692.19
+Canada,97360.33,1.D,Other sector,1,1,97360.33
+Canada,209.83,1.E,Other,1,1,209.83
+Canada,55464.88,1.F,Fugitive emissions,1,0,0.0
+Canada,1330.75,1.F.1,"Coal, solid fuels",1.F,1,1330.75
+Canada,54134.13,1.F.2,"Oil, gas and flaring",1.F,1,54134.13
+Canada,56319.99,2,Industry,root,0,0.0
+Canada,8852.9,2.A,Mineral,2,1,8852.9
+Canada,7658.32,2.B,Chemical,2,1,7658.32
+Canada,14974.28,2.C,Metal,2,1,14974.28
+Canada,11577.29,2.D,"Fuels, Solvent Use",2,1,11577.29
+Canada,12547.64,2.F,Substitutes for ODS,2,1,12547.64
+Canada,705.5,2.G,Other industry,2,1,705.5
+Canada,59381.63,3,Agriculture,root,0,0.0
+Canada,24142.14,3.A,Enteric Fermentation,3,1,24142.14
+Canada,7917.38,3.B,Manure Management,3,1,7917.38
+Canada,24668.14,3.D,Agricultural Soils,3,1,24668.14
+Canada,48.89,3.F,Field Burning,3,1,48.89
+Canada,179.52,3.G,Liming,3,1,179.52
+Canada,17652.42,4,Waste,root,0,0.0
+Canada,15671.76,4.A,Solid Waste Disposal,4,1,15671.76
+Canada,445.1,4.B,Biological Treatment,4,1,445.1
+Canada,393.3,4.C,Incineration,4,1,393.3
+Canada,1142.26,4.D,Wastewater Treatment and Discharge,4,1,1142.26
+European Union (Convention),3279195.41,1,Energy,root,0,0.0
+European Union (Convention),1110143.1,1.A,Energy Industries,1,0,0.0
+European Union (Convention),943930.46,1.A.1,Electricity and Heat Production,1.A,1,943930.46
+European Union (Convention),111301.6,1.A.2,Petroleum Refining,1.A,1,111301.6
+European Union (Convention),54911.03,1.A.3,Solid Fuels and Other Energy Industries,1.A,1,54911.03
+European Union (Convention),500674.76,1.B,Manufacturing Industries and Construction,1,1,500674.76
+European Union (Convention),950056.12,1.C,Transport,1,0,0.0
+European Union (Convention),16578.26,1.C.1,Domestic Aviation,1.C,1,16578.26
+European Union (Convention),898889.65,1.C.2,Road Transportation,1.C,1,898889.65
+European Union (Convention),6112.03,1.C.3,Railways,1.C,1,6112.03
+European Union (Convention),22009.12,1.C.4,Other transportation,1.C,1,22009.12
+European Union (Convention),6467.06,1.C.5,Other transportation,1.C,1,6467.06
+European Union (Convention),629478.52,1.D,Other sector,1,1,629478.52
+European Union (Convention),6202.44,1.E,Other,1,1,6202.44
+European Union (Convention),82640.46,1.F,Fugitive emissions,1,0,0.0
+European Union (Convention),33608.38,1.F.1,"Coal, solid fuels",1.F,1,33608.38
+European Union (Convention),49032.08,1.F.2,"Oil, gas and flaring",1.F,1,49032.08
+European Union (Convention),371911.93,2,Industry,root,0,0.0
+European Union (Convention),112147.53,2.A,Mineral,2,1,112147.53
+European Union (Convention),65296.86,2.B,Chemical,2,1,65296.86
+European Union (Convention),73836.02,2.C,Metal,2,1,73836.02
+European Union (Convention),9697.83,2.D,"Fuels, Solvent Use",2,1,9697.83
+European Union (Convention),98228.48,2.F,Substitutes for ODS,2,1,98228.48
+European Union (Convention),11505.33,2.G,Other industry,2,1,11505.33
+European Union (Convention),375.14,2.H,Other industry,2,1,375.14
+European Union (Convention),435262.69,3,Agriculture,root,0,0.0
+European Union (Convention),193737.14,3.A,Enteric Fermentation,3,1,193737.14
+European Union (Convention),63192.76,3.B,Manure Management,3,1,63192.76
+European Union (Convention),2532.26,3.C,Rice Cultivation,3,1,2532.26
+European Union (Convention),163003.36,3.D,Agricultural Soils,3,1,163003.36
+European Union (Convention),634.82,3.F,Field Burning,3,1,634.82
+European Union (Convention),6003.96,3.G,Liming,3,1,6003.96
+European Union (Convention),137988.26,4,Waste,root,0,0.0
+European Union (Convention),99042.48,4.A,Solid Waste Disposal,4,1,99042.48
+European Union (Convention),8240.41,4.B,Biological Treatment,4,1,8240.41
+European Union (Convention),4045.21,4.C,Incineration,4,1,4045.21
+European Union (Convention),26568.14,4.D,Wastewater Treatment and Discharge,4,1,26568.14
+France,318344.48,1,Energy,root,0,0.0
+France,42201.15,1.A,Energy Industries,1,0,0.0
+France,32972.39,1.A.1,Electricity and Heat Production,1.A,1,32972.39
+France,6232.18,1.A.2,Petroleum Refining,1.A,1,6232.18
+France,2996.58,1.A.3,Solid Fuels and Other Energy Industries,1.A,1,2996.58
+France,55682.77,1.B,Manufacturing Industries and Construction,1,1,55682.77
+France,133459.53,1.C,Transport,1,0,0.0
+France,5336.35,1.C.1,Domestic Aviation,1.C,1,5336.35
+France,125831.47,1.C.2,Road Transportation,1.C,1,125831.47
+France,414.98,1.C.3,Railways,1.C,1,414.98
+France,1495.9,1.C.4,Other transportation,1.C,1,1495.9
+France,380.83,1.C.5,Other transportation,1.C,1,380.83
+France,82892.91,1.D,Other sector,1,1,82892.91
+France,4108.12,1.F,Fugitive emissions,1,0,0.0
+France,17.62,1.F.1,"Coal, solid fuels",1.F,1,17.62
+France,4090.49,1.F.2,"Oil, gas and flaring",1.F,1,4090.49
+France,41204.56,2,Industry,root,0,0.0
+France,9939.21,2.A,Mineral,2,1,9939.21
+France,7647.33,2.B,Chemical,2,1,7647.33
+France,5024.36,2.C,Metal,2,1,5024.36
+France,1201.12,2.D,"Fuels, Solvent Use",2,1,1201.12
+France,15794.59,2.F,Substitutes for ODS,2,1,15794.59
+France,1493.2,2.G,Other industry,2,1,1493.2
+France,0.04,2.H,Other industry,2,1,0.04
+France,75028.74,3,Agriculture,root,0,0.0
+France,34316.09,3.A,Enteric Fermentation,3,1,34316.09
+France,6387.34,3.B,Manure Management,3,1,6387.34
+France,63.08,3.C,Rice Cultivation,3,1,63.08
+France,32183.62,3.D,Agricultural Soils,3,1,32183.62
+France,60.03,3.F,Field Burning,3,1,60.03
+France,731.54,3.G,Liming,3,1,731.54
+France,17631.9,4,Waste,root,0,0.0
+France,12197.46,4.A,Solid Waste Disposal,4,1,12197.46
+France,1211.81,4.B,Biological Treatment,4,1,1211.81
+France,1517.5,4.C,Incineration,4,1,1517.5
+France,2705.12,4.D,Wastewater Treatment and Discharge,4,1,2705.12
+Germany,720283.83,1,Energy,root,0,0.0
+Germany,295191.76,1.A,Energy Industries,1,0,0.0
+Germany,266224.92,1.A.1,Electricity and Heat Production,1.A,1,266224.92
+Germany,18953.66,1.A.2,Petroleum Refining,1.A,1,18953.66
+Germany,10013.18,1.A.3,Solid Fuels and Other Energy Industries,1.A,1,10013.18
+Germany,130123.87,1.B,Manufacturing Industries and Construction,1,1,130123.87
+Germany,163620.06,1.C,Transport,1,0,0.0
+Germany,2014.94,1.C.1,Domestic Aviation,1.C,1,2014.94
+Germany,157707.09,1.C.2,Road Transportation,1.C,1,157707.09
+Germany,847.96,1.C.3,Railways,1.C,1,847.96
+Germany,1708.6,1.C.4,Other transportation,1.C,1,1708.6
+Germany,1341.47,1.C.5,Other transportation,1.C,1,1341.47
+Germany,122070.3,1.D,Other sector,1,1,122070.3
+Germany,752.16,1.E,Other,1,1,752.16
+Germany,8525.69,1.F,Fugitive emissions,1,0,0.0
+Germany,2283.49,1.F.1,"Coal, solid fuels",1.F,1,2283.49
+Germany,6242.2,1.F.2,"Oil, gas and flaring",1.F,1,6242.2
+Germany,64791.53,2,Industry,root,0,0.0
+Germany,19561.67,2.A,Mineral,2,1,19561.67
+Germany,6669.83,2.B,Chemical,2,1,6669.83
+Germany,21503.74,2.C,Metal,2,1,21503.74
+Germany,2034.86,2.D,"Fuels, Solvent Use",2,1,2034.86
+Germany,10448.17,2.F,Substitutes for ODS,2,1,10448.17
+Germany,4226.56,2.G,Other industry,2,1,4226.56
+Germany,134.01,2.H,Other industry,2,1,134.01
+Germany,63564.89,3,Agriculture,root,0,0.0
+Germany,25068.63,3.A,Enteric Fermentation,3,1,25068.63
+Germany,9328.72,3.B,Manure Management,3,1,9328.72
+Germany,24646.44,3.D,Agricultural Soils,3,1,24646.44
+Germany,2140.05,3.G,Liming,3,1,2140.05
+Germany,9728.43,4,Waste,root,0,0.0
+Germany,7578.4,4.A,Solid Waste Disposal,4,1,7578.4
+Germany,1035.45,4.B,Biological Treatment,4,1,1035.45
+Germany,1043.46,4.D,Wastewater Treatment and Discharge,4,1,1043.46
+Italy,344328.09,1,Energy,root,0,0.0
+Italy,95805.32,1.A,Energy Industries,1,0,0.0
+Italy,70302.72,1.A.1,Electricity and Heat Production,1.A,1,70302.72
+Italy,19838.92,1.A.2,Petroleum Refining,1.A,1,19838.92
+Italy,5663.68,1.A.3,Solid Fuels and Other Energy Industries,1.A,1,5663.68
+Italy,53936.41,1.B,Manufacturing Industries and Construction,1,1,53936.41
+Italy,104263.14,1.C,Transport,1,0,0.0
+Italy,2338.31,1.C.1,Domestic Aviation,1.C,1,2338.31
+Italy,96865.93,1.C.2,Road Transportation,1.C,1,96865.93
+Italy,154.84,1.C.3,Railways,1.C,1,154.84
+Italy,4098.92,1.C.4,Other transportation,1.C,1,4098.92
+Italy,805.13,1.C.5,Other transportation,1.C,1,805.13
+Italy,83172.6,1.D,Other sector,1,1,83172.6
+Italy,351.3,1.E,Other,1,1,351.3
+Italy,6799.32,1.F,Fugitive emissions,1,0,0.0
+Italy,34.28,1.F.1,"Coal, solid fuels",1.F,1,34.28
+Italy,6765.04,1.F.2,"Oil, gas and flaring",1.F,1,6765.04
+Italy,34724.28,2,Industry,root,0,0.0
+Italy,10899.86,2.A,Mineral,2,1,10899.86
+Italy,3248.15,2.B,Chemical,2,1,3248.15
+Italy,1730.91,2.C,Metal,2,1,1730.91
+Italy,1096.72,2.D,"Fuels, Solvent Use",2,1,1096.72
+Italy,16551.56,2.F,Substitutes for ODS,2,1,16551.56
+Italy,951.06,2.G,Other industry,2,1,951.06
+Italy,30186.58,3,Agriculture,root,0,0.0
+Italy,14202.26,3.A,Enteric Fermentation,3,1,14202.26
+Italy,5669.99,3.B,Manure Management,3,1,5669.99
+Italy,1553.04,3.C,Rice Cultivation,3,1,1553.04
+Italy,8321.84,3.D,Agricultural Soils,3,1,8321.84
+Italy,18.74,3.F,Field Burning,3,1,18.74
+Italy,15.45,3.G,Liming,3,1,15.45
+Italy,18290.07,4,Waste,root,0,0.0
+Italy,13704.33,4.A,Solid Waste Disposal,4,1,13704.33
+Italy,633.65,4.B,Biological Treatment,4,1,633.65
+Italy,165.06,4.C,Incineration,4,1,165.06
+Italy,3787.03,4.D,Wastewater Treatment and Discharge,4,1,3787.03
+Japan,1085718.54,1,Energy,root,0,0.0
+Japan,474853.98,1.A,Energy Industries,1,0,0.0
+Japan,420273.3,1.A.1,Electricity and Heat Production,1.A,1,420273.3
+Japan,36508.28,1.A.2,Petroleum Refining,1.A,1,36508.28
+Japan,18072.4,1.A.3,Solid Fuels and Other Energy Industries,1.A,1,18072.4
+Japan,264928.85,1.B,Manufacturing Industries and Construction,1,1,264928.85
+Japan,204710.47,1.C,Transport,1,0,0.0
+Japan,10629.62,1.C.1,Domestic Aviation,1.C,1,10629.62
+Japan,182873.95,1.C.2,Road Transportation,1.C,1,182873.95
+Japan,557.08,1.C.3,Railways,1.C,1,557.08
+Japan,10649.81,1.C.4,Other transportation,1.C,1,10649.81
+Japan,140070.41,1.D,Other sector,1,1,140070.41
+Japan,1154.83,1.F,Fugitive emissions,1,0,0.0
+Japan,479.21,1.F.1,"Coal, solid fuels",1.F,1,479.21
+Japan,675.62,1.F.2,"Oil, gas and flaring",1.F,1,675.62
+Japan,100105.03,2,Industry,root,0,0.0
+Japan,33707.09,2.A,Mineral,2,1,33707.09
+Japan,5039.79,2.B,Chemical,2,1,5039.79
+Japan,6005.53,2.C,Metal,2,1,6005.53
+Japan,2643.96,2.D,"Fuels, Solvent Use",2,1,2643.96
+Japan,48277.61,2.F,Substitutes for ODS,2,1,48277.61
+Japan,1783.98,2.G,Other industry,2,1,1783.98
+Japan,105.33,2.H,Other industry,2,1,105.33
+Japan,33252.43,3,Agriculture,root,0,0.0
+Japan,7465.58,3.A,Enteric Fermentation,3,1,7465.58
+Japan,6245.21,3.B,Manure Management,3,1,6245.21
+Japan,13560.65,3.C,Rice Cultivation,3,1,13560.65
+Japan,5411.67,3.D,Agricultural Soils,3,1,5411.67
+Japan,82.97,3.F,Field Burning,3,1,82.97
+Japan,293.54,3.G,Liming,3,1,293.54
+Japan,19266.71,4,Waste,root,0,0.0
+Japan,2930.29,4.A,Solid Waste Disposal,4,1,2930.29
+Japan,385.02,4.B,Biological Treatment,4,1,385.02
+Japan,11678.28,4.C,Incineration,4,1,11678.28
+Japan,3599.78,4.D,Wastewater Treatment and Discharge,4,1,3599.78
+Russian Federation,1752621.26,1,Energy,root,0,0.0
+Russian Federation,825088.89,1.A,Energy Industries,1,0,0.0
+Russian Federation,738415.55,1.A.1,Electricity and Heat Production,1.A,1,738415.55
+Russian Federation,54252.68,1.A.2,Petroleum Refining,1.A,1,54252.68
+Russian Federation,32420.65,1.A.3,Solid Fuels and Other Energy Industries,1.A,1,32420.65
+Russian Federation,166829.51,1.B,Manufacturing Industries and Construction,1,1,166829.51
+Russian Federation,254077.22,1.C,Transport,1,0,0.0
+Russian Federation,12659.59,1.C.1,Domestic Aviation,1.C,1,12659.59
+Russian Federation,161266.29,1.C.2,Road Transportation,1.C,1,161266.29
+Russian Federation,8993.03,1.C.3,Railways,1.C,1,8993.03
+Russian Federation,2460.58,1.C.4,Other transportation,1.C,1,2460.58
+Russian Federation,68697.73,1.C.5,Other transportation,1.C,1,68697.73
+Russian Federation,207834.5,1.D,Other sector,1,1,207834.5
+Russian Federation,19597.7,1.E,Other,1,1,19597.7
+Russian Federation,279193.45,1.F,Fugitive emissions,1,0,0.0
+Russian Federation,68493.21,1.F.1,"Coal, solid fuels",1.F,1,68493.21
+Russian Federation,210700.24,1.F.2,"Oil, gas and flaring",1.F,1,210700.24
+Russian Federation,243136.92,2,Industry,root,0,0.0
+Russian Federation,36896.21,2.A,Mineral,2,1,36896.21
+Russian Federation,77763.46,2.B,Chemical,2,1,77763.46
+Russian Federation,106820.91,2.C,Metal,2,1,106820.91
+Russian Federation,1492.35,2.D,"Fuels, Solvent Use",2,1,1492.35
+Russian Federation,18703.38,2.F,Substitutes for ODS,2,1,18703.38
+Russian Federation,1441.24,2.G,Other industry,2,1,1441.24
+Russian Federation,126659.42,3,Agriculture,root,0,0.0
+Russian Federation,48964.31,3.A,Enteric Fermentation,3,1,48964.31
+Russian Federation,14620.61,3.B,Manure Management,3,1,14620.61
+Russian Federation,562.28,3.C,Rice Cultivation,3,1,562.28
+Russian Federation,61533.32,3.D,Agricultural Soils,3,1,61533.32
+Russian Federation,795.44,3.G,Liming,3,1,795.44
+Russian Federation,97705.35,4,Waste,root,0,0.0
+Russian Federation,70613.42,4.A,Solid Waste Disposal,4,1,70613.42
+Russian Federation,11.25,4.B,Biological Treatment,4,1,11.25
+Russian Federation,27080.68,4.D,Wastewater Treatment and Discharge,4,1,27080.68
+Sweden,36401.63,1,Energy,root,0,0.0
+Sweden,9423.26,1.A,Energy Industries,1,0,0.0
+Sweden,7003.82,1.A.1,Electricity and Heat Production,1.A,1,7003.82
+Sweden,2057.34,1.A.2,Petroleum Refining,1.A,1,2057.34
+Sweden,362.1,1.A.3,Solid Fuels and Other Energy Industries,1.A,1,362.1
+Sweden,6910.55,1.B,Manufacturing Industries and Construction,1,1,6910.55
+Sweden,16472.29,1.C,Transport,1,0,0.0
+Sweden,530.92,1.C.1,Domestic Aviation,1.C,1,530.92
+Sweden,14980.26,1.C.2,Road Transportation,1.C,1,14980.26
+Sweden,44.31,1.C.3,Railways,1.C,1,44.31
+Sweden,738.06,1.C.4,Other transportation,1.C,1,738.06
+Sweden,178.74,1.C.5,Other transportation,1.C,1,178.74
+Sweden,2543.1,1.D,Other sector,1,1,2543.1
+Sweden,169.52,1.E,Other,1,1,169.52
+Sweden,882.91,1.F,Fugitive emissions,1,0,0.0
+Sweden,4.44,1.F.1,"Coal, solid fuels",1.F,1,4.44
+Sweden,878.46,1.F.2,"Oil, gas and flaring",1.F,1,878.46
+Sweden,7341.82,2,Industry,root,0,0.0
+Sweden,2030.23,2.A,Mineral,2,1,2030.23
+Sweden,900.37,2.B,Chemical,2,1,900.37
+Sweden,2678.42,2.C,Metal,2,1,2678.42
+Sweden,442.47,2.D,"Fuels, Solvent Use",2,1,442.47
+Sweden,1034.8,2.F,Substitutes for ODS,2,1,1034.8
+Sweden,149.02,2.G,Other industry,2,1,149.02
+Sweden,106.51,2.H,Other industry,2,1,106.51
+Sweden,6790.17,3,Agriculture,root,0,0.0
+Sweden,3006.81,3.A,Enteric Fermentation,3,1,3006.81
+Sweden,596.08,3.B,Manure Management,3,1,596.08
+Sweden,3058.74,3.D,Agricultural Soils,3,1,3058.74
+Sweden,126.7,3.G,Liming,3,1,126.7
+Sweden,1245.62,4,Waste,root,0,0.0
+Sweden,781.53,4.A,Solid Waste Disposal,4,1,781.53
+Sweden,105.2,4.B,Biological Treatment,4,1,105.2
+Sweden,129.54,4.C,Incineration,4,1,129.54
+Sweden,229.36,4.D,Wastewater Treatment and Discharge,4,1,229.36
+United States of America,5547207.94,1,Energy,root,0,0.0
+United States of America,1927683.0,1.A,Energy Industries,1,0,0.0
+United States of America,1778460.13,1.A.1,Electricity and Heat Production,1.A,1,1778460.13
+United States of America,92313.15,1.A.2,Petroleum Refining,1.A,1,92313.15
+United States of America,56909.72,1.A.3,Solid Fuels and Other Energy Industries,1.A,1,56909.72
+United States of America,687957.59,1.B,Manufacturing Industries and Construction,1,1,687957.59
+United States of America,1821574.7,1.C,Transport,1,0,0.0
+United States of America,162545.04,1.C.1,Domestic Aviation,1.C,1,162545.04
+United States of America,1532630.01,1.C.2,Road Transportation,1.C,1,1532630.01
+United States of America,39276.2,1.C.3,Railways,1.C,1,39276.2
+United States of America,33743.86,1.C.4,Other transportation,1.C,1,33743.86
+United States of America,53379.58,1.C.5,Other transportation,1.C,1,53379.58
+United States of America,591017.55,1.D,Other sector,1,1,591017.55
+United States of America,204980.59,1.E,Other,1,1,204980.59
+United States of America,313994.49,1.F,Fugitive emissions,1,0,0.0
+United States of America,58918.47,1.F.1,"Coal, solid fuels",1.F,1,58918.47
+United States of America,255076.03,1.F.2,"Oil, gas and flaring",1.F,1,255076.03
+United States of America,376501.56,2,Industry,root,0,0.0
+United States of America,64763.85,2.A,Mineral,2,1,64763.85
+United States of America,80102.61,2.B,Chemical,2,1,80102.61
+United States of America,50432.29,2.C,Metal,2,1,50432.29
+United States of America,167859.09,2.F,Substitutes for ODS,2,1,167859.09
+United States of America,8282.93,2.G,Other industry,2,1,8282.93
+United States of America,255.53,2.H,Other industry,2,1,255.53
+United States of America,618501.74,3,Agriculture,root,0,0.0
+United States of America,177573.78,3.A,Enteric Fermentation,3,1,177573.78
+United States of America,81128.66,3.B,Manure Management,3,1,81128.66
+United States of America,13328.98,3.C,Rice Cultivation,3,1,13328.98
+United States of America,338155.86,3.D,Agricultural Soils,3,1,338155.86
+United States of America,568.96,3.F,Field Burning,3,1,568.96
+United States of America,3147.26,3.G,Liming,3,1,3147.26
+United States of America,134438.38,4,Waste,root,0,0.0
+United States of America,110559.66,4.A,Solid Waste Disposal,4,1,110559.66
+United States of America,4658.14,4.B,Biological Treatment,4,1,4658.14
+United States of America,19220.59,4.D,Wastewater Treatment and Discharge,4,1,19220.59
